@@ -1,0 +1,16 @@
+C:\Users\aradm\source\repos\DCSProject\DCSProject\bin\Debug\DCSProject.exe.config
+C:\Users\aradm\source\repos\DCSProject\DCSProject\bin\Debug\DCSProject.exe
+C:\Users\aradm\source\repos\DCSProject\DCSProject\bin\Debug\DCSProject.pdb
+C:\Users\aradm\source\repos\DCSProject\DCSProject\obj\Debug\DCSProject.csproj.AssemblyReference.cache
+C:\Users\aradm\source\repos\DCSProject\DCSProject\obj\Debug\DCSProject.csproj.SuggestedBindingRedirects.cache
+C:\Users\aradm\source\repos\DCSProject\DCSProject\obj\Debug\MainWindow.g.cs
+C:\Users\aradm\source\repos\DCSProject\DCSProject\obj\Debug\App.g.cs
+C:\Users\aradm\source\repos\DCSProject\DCSProject\obj\Debug\DCSProject_MarkupCompile.cache
+C:\Users\aradm\source\repos\DCSProject\DCSProject\obj\Debug\DCSProject_MarkupCompile.lref
+C:\Users\aradm\source\repos\DCSProject\DCSProject\obj\Debug\MainWindow.baml
+C:\Users\aradm\source\repos\DCSProject\DCSProject\obj\Debug\DCSProject.g.resources
+C:\Users\aradm\source\repos\DCSProject\DCSProject\obj\Debug\DCSProject.Properties.Resources.resources
+C:\Users\aradm\source\repos\DCSProject\DCSProject\obj\Debug\DCSProject.csproj.GenerateResource.cache
+C:\Users\aradm\source\repos\DCSProject\DCSProject\obj\Debug\DCSProject.csproj.CoreCompileInputs.cache
+C:\Users\aradm\source\repos\DCSProject\DCSProject\obj\Debug\DCSProject.exe
+C:\Users\aradm\source\repos\DCSProject\DCSProject\obj\Debug\DCSProject.pdb
